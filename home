@@ -1,0 +1,1360 @@
+<!DOCTYPE html><html lang="en"><head>
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5WRT9V5J');</script>
+  <!-- End Google Tag Manager -->
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GEP03ZSCL8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GEP03ZSCL8');
+</script>
+<meta name="google-site-verification" content="gA-idahIHwSTD8Une7oUmqAeAqylLkE1g5fSsZAJUJY">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>cinemayeran | سینەمای ئێران</title>
+<meta name="theme-color" content="#FFC107">
+<meta name="keywords" content="">
+<meta property="og:image" content="images/logo-site.png">
+<meta property="image" content="./assets/logo-site.png">
+<meta name="description" content="سینەمای ئێران تایبەت بە فیلم و درامای فارسی ژێرنوسکراو دۆبلاژکراو">
+<meta name="og:description" content="سینەمای ئێران تایبەت بە فیلم و درامای فارسی ژێرنوسکراو دۆبلاژکراو">
+  <!--- favicon --->
+  <link rel="shortcut icon" href="images/logo-site.png" type="image/svg+xml">
+
+  <!--- custom css link --->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/nav-header.css">
+
+
+
+
+  <!--- google font link --->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="js/jquery-3.4.1.js"></script>
+<link rel="stylesheet" href="css/all.min.css">
+<link href="css/boxicons.min.css" rel="stylesheet">
+<link rel="stylesheet" href="css/line.css">
+<link href="css/boxicons.min_1.css" rel="stylesheet">
+
+<!-- SCRIPT -->
+<!-- JQUERY -->
+<script src="js/jquery-3.6.0.min.js" crossorigin="anonymous"></script>
+<!-- OWL CAROUSEL -->
+<script src="js/owl.carousel.min.js" crossorigin="anonymous"></script>
+<script defer="defer" src="js/bundle.js"></script>
+
+
+
+
+    
+<!-- شوێنی ڕێکلام -->
+
+<!-- شوێنی ڕێکلام -->
+
+
+
+
+
+
+  <!--- HEADER --->
+</head><body><div class="zakarya-header" dir="rtl">
+<nav class="includrequist">
+<div class="content2">
+<div class="logo2">
+<a href="http://example.com/">
+<img src="images/name-site.png" alt="zakarya-faesal logo" style="width: 115px;">
+</a>
+</div>
+</div>
+<input id="toggleChecker" type="checkbox">
+<label id="togglerLable" for="toggleChecker">
+<div class="checkboxtoggler">
+<div class="line-1"></div>
+<div class="line-2"></div>
+<div class="line-3"></div>
+</div>
+</label>
+<input type="checkbox" id="show-search">
+<label for="show-search" class="search-icon"><i class="fas fa-search" style="margin-right: -15px;"></i></label>
+<form action="#" class="search-box">
+<div>
+<input type="text" placeholder="گەڕان , فیلم , دراما" id="search" autocomplete="off">
+<div class="scroll-over">
+<div class="clasl_list_serach" dir="rtl">
+</div>
+</div>
+</div>
+</form> 
+<div class="content2">
+<ul class="links2">
+<li>
+<a href="https://cinemayeran.net/" style="display: flex;gap: 5px;">
+<div class="hidden text-xl lg:block"><svg stroke="#FFC107" fill="#FFC107" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><g><path fill="none" d="M0 0h24v24H0z"></path><path d="M19 21H5a1 1 0 0 1-1-1v-9H1l10.327-9.388a1 1 0 0 1 1.346 0L23 11h-3v9a1 1 0 0 1-1 1zm-6-2h5V9.157l-6-5.454-6 5.454V19h5v-6h2v6z"></path></g></svg></div>
+سەرەتا</a></li>
+<li>
+<input type="checkbox" id="show-features2">
+<label for="show-features2" style="display: flex;gap: 5px;"> 
+<div class="hidden text-xl lg:block">
+<svg stroke="#FFC107" fill="#FFC107" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><g><path fill="none" d="M0 0h24v24H0z"></path><path d="M12 20h8v2h-8C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10a9.956 9.956 0 0 1-2 6h-2.708A8 8 0 1 0 12 20zm0-10a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-4 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm8 0a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm-4 4a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"></path></g></svg>
+</div>
+فیلم</label>
+<ul>
+<li><a href="https://cinemayeran.net/movies/zhernus">فیلمی ژێرنووسکراو</a></li>
+<li><a href="https://cinemayeran.net/movies/doblaj">فیلمی دۆبلاژکراو</a></li>
+</ul>
+</li>
+<li>
+<input type="checkbox" id="show-features">
+<label for="show-features" style="display: flex;gap: 5px;"> 
+<div class="hidden text-xl lg:block">
+<svg stroke="#FFC107" fill="#FFC107" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><g><path fill="none" d="M0 0h24v24H0z"></path><path d="M2 3.993A1 1 0 0 1 2.992 3h18.016c.548 0 .992.445.992.993v16.014a1 1 0 0 1-.992.993H2.992A.993.993 0 0 1 2 20.007V3.993zM4 5v14h16V5H4zm6.622 3.415l4.879 3.252a.4.4 0 0 1 0 .666l-4.88 3.252a.4.4 0 0 1-.621-.332V8.747a.4.4 0 0 1 .622-.332z"></path></g></svg>
+</div>
+دراما</label>
+<ul>
+<li><a href="https://cinemayeran.net/movies/drama-zhernus">درامای ژێرنووسکراو</a></li>
+<li><a href="https://cinemayeran.net/movies/drama-doblaj">درامای دۆبلاژکراو</a></li>
+</ul>
+</li>
+<li>
+<a href="https://cinemayeran.net/favorites" style="display: flex;gap: 5px;">
+<div class="hidden text-xl lg:block">
+<svg viewBox="0 0 24 24" style="height: 1em;width: 1em;" fill="#FFC107"><g><path fill="none" d="M0 0h24v24H0z"></path><path d="M4 2h16a1 1 0 0 1 1 1v19.276a.5.5 0 0 1-.704.457L12 19.03l-8.296 3.702A.5.5 0 0 1 3 22.276V3a1 1 0 0 1 1-1zm8 11.5l2.939 1.545-.561-3.272 2.377-2.318-3.286-.478L12 6l-1.47 2.977-3.285.478 2.377 2.318-.56 3.272L12 13.5z"></path></g></svg>
+</div>
+لیستی دڵخواز
+</a>
+</li>
+<li>
+<a href="https://cinemayeran.net/staff" style="display: flex;gap: 5px;">
+<div class="hidden text-xl lg:block"><svg stroke="#FFC107" fill="#FFC107" stroke-width="0" viewBox="0 0 24 24" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><g><path fill="none" d="M0 0h24v24H0z"></path><path d="M2 22a8 8 0 1 1 16 0h-2a6 6 0 1 0-12 0H2zm8-9c-3.315 0-6-2.685-6-6s2.685-6 6-6 6 2.685 6 6-2.685 6-6 6zm0-2c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm8.284 3.703A8.002 8.002 0 0 1 23 22h-2a6.001 6.001 0 0 0-3.537-5.473l.82-1.824zm-.688-11.29A5.5 5.5 0 0 1 21 8.5a5.499 5.499 0 0 1-5 5.478v-2.013a3.5 3.5 0 0 0 1.041-6.609l.555-1.943z"></path></g></svg></div>
+ستاف
+</a>
+</li>
+<li>
+<a href="https://cinemayeran.net/about" style="display: flex;gap: 5px;">
+<div class="hidden text-xl">
+<svg xmlns="http://www.w3.org/2000/svg" stroke="#FFC107" fill="#FFC107" viewBox="0 0 50 50" width="1em" height="1em"><path d="M 25 2 C 12.309295 2 2 12.309295 2 25 C 2 37.690705 12.309295 48 25 48 C 37.690705 48 48 37.690705 48 25 C 48 12.309295 37.690705 2 25 2 z M 25 4 C 36.609824 4 46 13.390176 46 25 C 46 36.609824 36.609824 46 25 46 C 13.390176 46 4 36.609824 4 25 C 4 13.390176 13.390176 4 25 4 z M 25 11 A 3 3 0 0 0 22 14 A 3 3 0 0 0 25 17 A 3 3 0 0 0 28 14 A 3 3 0 0 0 25 11 z M 21 21 L 21 23 L 22 23 L 23 23 L 23 36 L 22 36 L 21 36 L 21 38 L 22 38 L 23 38 L 27 38 L 28 38 L 29 38 L 29 36 L 28 36 L 27 36 L 27 21 L 26 21 L 22 21 L 21 21 z"></path></svg>
+</div>
+دەربارە
+</a></li>
+</ul>
+</div>
+</nav>
+</div>
+<br>
+<br>
+<br>
+<div style="padding-inline: 15px;">
+<div class="container-fluid"> 
+<div class="row">
+<div class="col-sm-12 overflow-hidden">
+<ul class="favorites-slider2 list-inline row p-0 mb-0" id="home-slider">
+<!-- slide item 2-->
+<li class="slide-item" style="width: 10%;">
+  <div class="block-images position-relative">
+  <div class="img-box">
+  <img src="images/f1.jpg" class="img-fluid" alt="">
+  </div>
+  <div class="block-description">
+  <h6 class="iq-title">
+  <a href="/post/drama-doblaj/dd-0001">   لە دڵی مندا </a>
+  </h6>
+  <div class="movie-time d-flex align-items-center my-2">
+  <div class="badge badge-secondary p-1 mr-2">IMDB 8.5</div>
+  <span class="text-white">یەك وەرز</span>
+  <span style="color: #fff;">
+    ئەم زنجیرەیە باس لە ژیانی دوو خێزانی هەژار و دەوڵەمەند دەکات 
+  </span></div>
+  <a href="/post/drama-doblaj/dd-0001">
+  <div class="hover-buttons">
+  <span class="btn btn-hover-zakarya iq-button">
+  <i class="fa fa-play mr-1"></i>
+  بینینی ڕاستەوخۆ
+  </span>
+  </div>
+  </a>
+  </div>
+  </div>
+  </li>
+<!-- slide item 1 -->
+<li class="slide-item" style="width: 10%;">
+  <div class="block-images position-relative">
+  <div class="img-box">
+  <img src="images/f6.jpg" class="img-fluid" alt="">
+  </div>
+  <div class="block-description">
+  <h6 class="iq-title">
+  <a href="/post/drama-zhernus/dz-00019">  گەنجینەی مظفر   -  گنج مظفر   </a>
+  </h6>
+  <div class="movie-time d-flex align-items-center my-2">
+  <div class="badge badge-secondary p-1 mr-2">10/6.6</div>
+  <span class="text-white">یەك وەرز </span>
+  <span style="color: #fff;">
+    گەنجینەی موزەفەر بەسەرهاتی میراتێکی بە جی ماو لە خان قلی‌خان...
+</span>
+  </div>
+  <a href="/post/drama-zhernus/dz-00019">
+  <div class="hover-buttons">
+  <span class="btn btn-hover-zakarya iq-button">
+  <i class="fa fa-play mr-1"></i>
+  بینینی ڕاستەوخۆ
+  </span>
+  </div>
+  </a>
+  </div>
+  </div>
+  </li>
+
+
+
+<!-- slide item 1 -->
+<li class="slide-item" style="width: 10%;">
+  <div class="block-images position-relative">
+  <div class="img-box">
+  <img src="images/f5.jpg" class="img-fluid" alt="">
+  </div>
+  <div class="block-description">
+  <h6 class="iq-title">
+  <a href="/post/drama-zhernus/dz-00018">  خاتونی سەردار  -  بانوی سردار  </a>
+  </h6>
+  <div class="movie-time d-flex align-items-center my-2">
+  <div class="badge badge-secondary p-1 mr-2">10/6.2</div>
+  <span class="text-white">یەك وەرز </span>
+  <span style="color: #fff;">
+     چیرۆکی ژیانی ژنێکی ئازا و بوێرە، بە ناوی مەریەم، ناسراو بە مەریەم خاتون...
+</span>
+  </div>
+  <a href="/post/drama-zhernus/dz-00018">
+  <div class="hover-buttons">
+  <span class="btn btn-hover-zakarya iq-button">
+  <i class="fa fa-play mr-1"></i>
+  بینینی ڕاستەوخۆ
+  </span>
+  </div>
+  </a>
+  </div>
+  </div>
+  </li>
+
+<!-- slide item 1 -->
+<li class="slide-item" style="width: 10%;">
+  <div class="block-images position-relative">
+  <div class="img-box">
+  <img src="images/f7.jpg" class="img-fluid" alt="">
+  </div>
+  <div class="block-description">
+  <h6 class="iq-title">
+  <a href="/post/drama-doblaj/dd-0003">  کرێچی  -  دردسر والدین  </a>
+  </h6>
+  <div class="movie-time d-flex align-items-center my-2">
+  <div class="badge badge-secondary p-1 mr-2">5/4.1</div>
+  <span class="text-white">یەك وەرز </span>
+  <span style="color: #fff;">
+    عەلی پورحاتم کارمەندێکە چوار منداڵی هەیە و هاوسەرەکەی لەدەست داوە دوای ئەوەی
+</span>
+  </div>
+  <a href="/post/drama-doblaj/dd-0003">
+  <div class="hover-buttons">
+  <span class="btn btn-hover-zakarya iq-button">
+  <i class="fa fa-play mr-1"></i>
+  بینینی ڕاستەوخۆ
+  </span>
+  </div>
+  </a>
+  </div>
+  </div>
+  </li>
+<!-- slide item 3 -->
+<li class="slide-item" style="width: 10%;">
+  <div class="block-images position-relative">
+  <div class="img-box">
+  <img src="images/f16.jpg" class="img-fluid" alt="">
+  </div>
+  <div class="block-description">
+  <h6 class="iq-title">
+  <a href="/post/drama-zhernus/dz-00013">  شەهرزاد </a>
+  </h6>
+  <div class="movie-time d-flex align-items-center my-2">
+  <div class="badge badge-secondary p-1 mr-2">IMDB 8.4</div>
+  <span class="text-white">سێ وەرز </span>
+  <span style="color: #fff;">
+    ...لە ئێران، تاران، ساڵی ١٩٥٣، شەهرزاد و فەرهاد یەکتریان خۆشدەوێت و بەنیازن هاوسەرگیری بکەن، بەڵام   </span>
+  </div>
+  <a href="/post/drama-zhernus/dz-00013">
+  <div class="hover-buttons">
+  <span class="btn btn-hover-zakarya iq-button">
+  <i class="fa fa-play mr-1"></i>
+  بینینی ڕاستەوخۆ
+  </span>
+  </div>
+  </a>
+  </div>
+  </div>
+  </li>
+
+
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- slider ends -->
+
+<main>
+<article>
+
+<div class="push" style="padding-top: 50px;"></div>
+
+
+<script async="" src="js/adsbygoogle.js" crossorigin="anonymous"></script>
+
+<div class="reklam">
+  <a href="https://quran.ksu.edu.sa/index.php?l=ku#aya=1_1&m=hafs&qaree=shuraym&trans=ku_asan" style="display: flex;justify-content: center;">
+  <img src="images/reklam3.jpg">
+  </a>
+  </div>
+
+
+
+<div class="reklam">
+  <a href="https://t.me/drawi_aliktroni" style="display: flex;justify-content: center;">
+  <img src="images/reklam2.jpg">
+  </a>
+  </div>
+
+
+
+<div class="share-pop" dir="rtl">
+<header>
+<span>بەستەرێک داگرە</span>
+<div class="close"><i class="uil uil-times"></i></div>
+</header>
+<div class="content-share">
+<ul class="share-icons">
+<a href="#"><i class="fab fa-facebook-f"></i></a>
+<a href="#"><i class="fab fa-instagram"></i></a>
+<a href="#"><i class="fab fa-whatsapp"></i></a>
+<a href="https://t.me/cinema_E_S"><i class="fab fa-telegram-plane"></i></a>
+</ul>
+<div class="field">
+</div>
+</div>
+</div>
+<script>
+const viewBtn = document.querySelector(".reklam"),
+popup = document.querySelector(".share-pop"),
+close = popup.querySelector(".close"),
+field = popup.querySelector(".field"),
+input = field.querySelector("input"),
+copy = field.querySelector("button");
+viewBtn.onclick = ()=>{
+  popup.classList.toggle("show");
+}
+close.onclick = ()=>{
+  viewBtn.click();
+}
+</script>
+
+
+
+
+
+      <!---     #TV   فیلمی  ژێرنووس   --->
+<section class="top-rated">
+<div class="container">
+<span class="padding-margin" style="padding-top: 40px;"></span>
+
+<h2 class="h2 section-title" style="font-size: 15px;" dir="rtl"><span style="padding-right: 5px;display: flex;align-items: center;justify-content: space-between;">
+<span1 style="border-right: 5px solid #FFC107;display: flex;padding: 5px;">فیلمی ژێرنووسکراو</span1>
+<a href="/movies/zhernus" style="
+font-size: 14px;
+align-items: center;
+display: flex;
+color: #ffffffc7;
+padding: 5px;">
+بینینی زیاتر
+<i class="fas fa-angle-left" style="color: #FFC107;padding: 1px 6px;font-size: 18px;"></i>
+</a>
+</span>
+</h2>
+
+<ul class="movies-list" dir="rtl">
+                                                                                                                     <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/zhernus/z-000110">    
+  <figure class="card-banner">
+  <img src="images/nziki8bayani.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <div>
+  <h3 class="card-title">      نزیکی ٨ی بەیانی </h3>
+  </div>
+  <span style="
+  color: #6d6d6de8;
+  font-size: 11px;">      تاوان - درامی   |  2023
+</span>    
+  </a>
+  </div>
+  </div>
+  </li>
+                                                                                                                   <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/zhernus/z-000109">    
+  <figure class="card-banner">
+  <img src="images/ws.kchanhawarnakan.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <div>
+  <h3 class="card-title">        وس کچان هاوار ناکەن  </h3>
+  </div>
+  <span style="
+  color: #6d6d6de8;
+  font-size: 11px;">      تاوان - درامی   |  2013
+</span>    
+  </a>
+  </div>
+  </div>
+  </li>
+                                                                                                                 <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/zhernus/z-000108">    
+  <figure class="card-banner">
+  <img src="images/mnwziba.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <div>
+  <h3 class="card-title">        من و زیبا  </h3>
+  </div>
+  <span style="
+  color: #6d6d6de8;
+  font-size: 11px;">      خۆشەویستی - درامی   |  2011
+</span>    
+  </a>
+  </div>
+  </div>
+  </li>
+
+                                                                                                               <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/zhernus/z-000107">    
+  <figure class="card-banner">
+  <img src="images/guman.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <div>
+  <h3 class="card-title">        گومان  </h3>
+  </div>
+  <span style="
+  color: #6d6d6de8;
+  font-size: 11px;">      کۆمەڵایەتی - درامی   |  2008
+</span>    
+  </a>
+  </div>
+  </div>
+  </li>
+                                                                                                             <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/zhernus/z-000106">    
+  <figure class="card-banner">
+  <img src="images/nalayjudaye.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <div>
+  <h3 class="card-title">       ناڵەی جودایی  </h3>
+  </div>
+  <span style="
+  color: #6d6d6de8;
+  font-size: 11px;">      خۆشەویستی درامی -  |  2017
+</span>    
+  </a>
+  </div>
+  </div>
+  </li>
+                                                                                                           <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/zhernus/z-000105">    
+  <figure class="card-banner">
+  <img src="images/araqi-sard.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <div>
+  <h3 class="card-title">      ئارەقی سارد  </h3>
+  </div>
+  <span style="
+  color: #6d6d6de8;
+  font-size: 11px;">      کۆمەڵایەتی - درامی - وەرزشی |  2018
+</span>    
+  </a>
+  </div>
+  </div>
+  </li>
+                                                                                                         <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/zhernus/z-000104">    
+  <figure class="card-banner">
+  <img src="images/xanm.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <div>
+  <h3 class="card-title">      خانم  </h3>
+  </div>
+  <span style="
+  color: #6d6d6de8;
+  font-size: 11px;">      کۆمەڵایەتی - درامی |  2014
+</span>    
+  </a>
+  </div>
+  </div>
+  </li>
+                                                                                                       <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/zhernus/z-000103">    
+  <figure class="card-banner">
+  <img src="images/syazangi.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <div>
+  <h3 class="card-title">      سیازنگی  </h3>
+  </div>
+  <span style="
+  color: #6d6d6de8;
+  font-size: 11px;">      کۆمەڵایەتی - کۆمیدی |  2008
+</span>    
+  </a>
+  </div>
+  </div>
+  </li>
+                                                                                                     <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/zhernus/z-000102">    
+  <figure class="card-banner">
+  <img src="images/toheshta-leray.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <div>
+  <h3 class="card-title">    تۆ هێشتا لێرەی  </h3>
+  </div>
+  <span style="
+  color: #6d6d6de8;
+  font-size: 11px;">      
+ درامی - خێزانی - کورتە  |  2018
+</span>    
+  </a>
+  </div>
+  </div>
+  </li>
+                                                                                                   <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/zhernus/z-000101">    
+  <figure class="card-banner">
+  <img src="images/kotaxwani-ewara.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <div>
+  <h3 class="card-title">     کۆتا خوانی ئێوارە  </h3>
+  </div>
+  <span style="
+  color: #6d6d6de8;
+  font-size: 11px;">      
+ درامی - خۆشەویستی  |  2001
+</span>    
+  </a>
+  </div>
+  </div>
+  </li>
+                                                                                                 <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/zhernus/z-000100">    
+  <figure class="card-banner">
+  <img src="images/shari-chwan.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <div>
+  <h3 class="card-title">     شاری جوان  </h3>
+  </div>
+  <span style="
+  color: #6d6d6de8;
+  font-size: 11px;">      
+ درامی - خۆشەویستی  |  2004
+</span>    
+  </a>
+  </div>
+  </div>
+  </li>
+                                                                                               <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/zhernus/z-00099">    
+  <figure class="card-banner">
+  <img src="images/libido.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <div>
+  <h3 class="card-title">     لیبیدو  </h3>
+  </div>
+  <span style="
+  color: #6d6d6de8;
+  font-size: 11px;">      
+ درامی - کۆمەڵایەتی  |  2018
+</span>    
+  </a>
+  </div>
+  </div>
+  </li>
+                                                         <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+</ul>
+<br>
+<div class="zakarya-section--title">
+<a href="/movies/zhernus">
+<span1>بینینی زیاتر</span1>
+</a>
+</div>
+</div>
+</section>
+
+<!---     #TV   درامای  دۆبلاژکراو   --->
+<div style="padding-inline: 15px;">
+<span class="padding-margin" style="padding-top: 40px;"></span>
+
+<h2 class="h2 section-title" style="font-size: 15px;" dir="rtl"><span style="padding-right: 5px;display: flex;align-items: center;justify-content: space-between;">
+<span1 style="border-right: 5px solid #FFC107;display: flex;padding: 5px;">فیلمی دۆبلاژکراو </span1>
+<a href="/movies/doblaj" style="
+font-size: 14px;
+align-items: center;
+display: flex;
+color: #ffffffc7;
+padding: 5px;">
+بینینی زیاتر
+<i class="fas fa-angle-left" style="color: #FFC107;padding: 1px 6px;font-size: 18px;"></i>
+</a>
+</span>
+</h2>
+<span class="padding-margin" style="padding-top: 20px;"></span>
+<div class="container-fluid"> 
+<div class="row">
+<div class="col-sm-12 overflow-hidden">
+<ul class="favorites-slider list-inline row p-0 mb-0" id="home-slider">
+      <!-- slide item 1 -->
+<li class="slide-item">
+  <div class="block-images position-relative">
+  <div class="img-box2">
+  <img src="images/niwaybomn-niwayboto-f9.jpg" class="img-fluid" alt="">
+  </div>
+  <div class="block-description">
+  <h6 class="iq-title">
+  <a href="/post/doblaj/d-0009">   نیوەی بۆ من نیوەی بۆ تۆ  </a>
+  </h6>
+  <div class="movie-time d-flex align-items-center my-2">
+  <div class="badge badge-secondary p-1 mr-2">IMDB 10/5.1</div>
+  <span class="text-white">  چیڕۆکی ئەم فیلمە باسی پیاوێک دەکات کە بە نهێنی ژنی دووەمی هێناوە و هیچ کام لە ژنەکان نازانن کە ئەم پیاوە خاوەنی ژنێکی ترە
+  </span>
+  </div>
+  <a href="/post/doblaj/d-0009">
+  <div class="hover-buttons">
+  <span class="btn btn-hover-zakarya iq-button">
+  <i class="fa fa-play mr-1"></i>
+  بینینی ڕاستەوخۆ
+  </span>
+  </div>
+  </a>
+  </div>
+  </div>
+  </li>
+    <!-- slide item 1 -->
+<li class="slide-item">
+  <div class="block-images position-relative">
+  <div class="img-box2">
+  <img src="images/zhyaneke-shirinf8.jpg" class="img-fluid" alt="">
+  </div>
+  <div class="block-description">
+  <h6 class="iq-title">
+  <a href="/post/doblaj/d-0008">  ژیانێکی شیرین  </a>
+  </h6>
+  <div class="movie-time d-flex align-items-center my-2">
+  <div class="badge badge-secondary p-1 mr-2">IMDB 5/3.7</div>
+  <span class="text-white">  ئەمیر مێهرجووی ئەکتەرە کە لە ڕێگای هاوسەرگیری لەگەڵ کچە دڵخوازەکەی بەناوی هێستی ڕووبەڕووی کێشەی خێزانی دەبێتەوە
+  </span>
+  </div>
+  <a href="/post/doblaj/d-0008">
+  <div class="hover-buttons">
+  <span class="btn btn-hover-zakarya iq-button">
+  <i class="fa fa-play mr-1"></i>
+  بینینی ڕاستەوخۆ
+  </span>
+  </div>
+  </a>
+  </div>
+  </div>
+  </li>
+  <!-- slide item 1 -->
+<li class="slide-item">
+  <div class="block-images position-relative">
+  <div class="img-box2">
+  <img src="images/dwzhn-f6.jpg" class="img-fluid" alt="">
+  </div>
+  <div class="block-description">
+  <h6 class="iq-title">
+  <a href="/post/doblaj/d-0007"> دوو ژن  </a>
+  </h6>
+  <div class="movie-time d-flex align-items-center my-2">
+  <div class="badge badge-secondary p-1 mr-2">IMDB 10/7.6</div>
+  <span class="text-white">  باس لە ژیانی دوو قوتابی زانکۆ دەکات لە بەشی ئەندازیاری لە سەرەتای سەرهەڵدانی شۆڕشی ئیسلامی ئێرانی
+  </span>
+  </div>
+  <a href="/post/doblaj/d-0007">
+  <div class="hover-buttons">
+  <span class="btn btn-hover-zakarya iq-button">
+  <i class="fa fa-play mr-1"></i>
+  بینینی ڕاستەوخۆ
+  </span>
+  </div>
+  </a>
+  </div>
+  </div>
+  </li>
+<!-- slide item 1 -->
+<li class="slide-item">
+  <div class="block-images position-relative">
+  <div class="img-box2">
+  <img src="images/akwaryom-f1.jpg" class="img-fluid" alt="">
+  </div>
+  <div class="block-description">
+  <h6 class="iq-title">
+  <a href="/post/doblaj/d-0001"> ئەکواریۆم </a>
+  </h6>
+  <div class="movie-time d-flex align-items-center my-2">
+  <div class="badge badge-secondary p-1 mr-2">IMDB 10/7.3</div>
+  <span class="text-white">چیرۆکی پاڵەوانێکی گەنجی پێشبڕکێی ئۆتۆمبێلە بە ناوی جاڤید کە گەشت دەکات بۆ تورکیا بۆ ئەوەی بچێتە ئەمریکا و</span>
+  </div>
+  <a href="/post/doblaj/d-0001">
+  <div class="hover-buttons">
+  <span class="btn btn-hover-zakarya iq-button">
+  <i class="fa fa-play mr-1"></i>
+  بینینی ڕاستەوخۆ
+  </span>
+  </div>
+  </a>
+  </div>
+  </div>
+  </li>
+    <!-- slide item 2 -->
+
+<li class="slide-item">
+  <div class="block-images position-relative">
+  <div class="img-box2">
+  <img src="images/dadgayy-f4.jpg" class="img-fluid" alt="">
+  </div>
+  <div class="block-description">
+  <h6 class="iq-title">
+  <a href="/post/doblaj/d-0002"> دادگایی </a>
+  </h6>
+  <div class="movie-time d-flex align-items-center my-2">
+  <div class="badge badge-secondary p-1 mr-2">IMDB 10/5.5</div>
+  <span class="text-white">ئەم فیلمە چیرۆکی پارێزەرێکە، کە دادوەری دەکات و بە دۆسیەی کەسێکی ئەفغانی ژیانی دووچاری گۆڕانکاری زۆر دەبێتەوە..</span>
+  </div>
+  <a href="/post/doblaj/d-0002">
+  <div class="hover-buttons">
+  <span class="btn btn-hover-zakarya iq-button">
+  <i class="fa fa-play mr-1"></i>
+  بینینی ڕاستەوخۆ
+  </span>
+  </div>
+  </a>
+  </div>
+  </div>
+  </li>
+    <!-- slide item 2 -->
+    <li class="slide-item">
+      <div class="block-images position-relative">
+      <div class="img-box2">
+      <img src="images/dangidarya-f3.jpg" class="img-fluid" alt="">
+      </div>
+      <div class="block-description">
+      <h6 class="iq-title">
+      <a href="/post/doblaj/d-0003">  دەنگی دەریا </a>
+      </h6>
+      <div class="movie-time d-flex align-items-center my-2">
+      <div class="badge badge-secondary p-1 mr-2">IMDB 10/5.3</div>
+      <span class="text-white">چیرۆکی ئارش و نازەنین، ئارش منداڵێکی تەمەن 16 ساڵە، دایک و باوکی لێک جیابوونەتەوە و</span>
+      </div>
+      <a href="/post/doblaj/d-0003">
+      <div class="hover-buttons">
+      <span class="btn btn-hover-zakarya iq-button">
+      <i class="fa fa-play mr-1"></i>
+      بینینی ڕاستەوخۆ
+      </span>
+      </div>
+      </a>
+      </div>
+      </div>
+      </li>
+<!-- slide item 3 -->
+<li class="slide-item">
+<div class="block-images position-relative">
+<div class="img-box2">
+<img src="images/klawekbobaran-f2.jpg" class="img-fluid" alt="">
+</div>
+<div class="block-description">
+<h6 class="iq-title">
+<a href="/post/doblaj/d-0005">  کڵاوێك بۆ باران </a>
+</h6>
+<div class="movie-time d-flex align-items-center my-2">
+<div class="badge badge-secondary p-1 mr-2">IMDB 10/4.0</div>
+<span class="text-white">باران ئێبی بەکرێ دەگرێت بۆ ئەوەی سەرنجی پیروز ڕابکێشێت و هانی بدات بۆ ئەوەی هاوسەرگیری لەگەڵ بکات..</span>
+</div>
+<a href="/post/doblaj/d-0005">
+<div class="hover-buttons">
+<span class="btn btn-hover-zakarya iq-button">
+<i class="fa fa-play mr-1"></i>
+بینینی ڕاستەوخۆ
+</span>
+</div>
+</a>
+</div>
+</div>
+</li>
+    <!-- slide item 4 -->
+<li class="slide-item">
+  <div class="block-images position-relative">
+  <div class="img-box2">
+  <img src="images/qarabu-f5.jpg" class="img-fluid" alt="">
+  </div>
+  <div class="block-description">
+  <h6 class="iq-title">
+  <a href="/post/doblaj/d-0006"> قەرەبوو</a>
+  </h6>
+  <div class="movie-time d-flex align-items-center my-2">
+  <div class="badge badge-secondary p-1 mr-2">IMDB 10/4.5</div>
+  <span class="text-white"> ژنو مێردێک بڕیاری تەڵاق دەدەن، بەڵام ڕۆژێک پێش جیابونەوە پیاوەکە بۆی دەردەکەوێت کە ژنەکەی شێرپەنجەی هەیە و</span>
+  </div>
+  <a href="/post/doblaj/d-0006">
+  <div class="hover-buttons">
+  <span class="btn btn-hover-zakarya iq-button">
+  <i class="fa fa-play mr-1"></i>
+  بینینی ڕاستەوخۆ
+  </span>
+  </div>
+  </a>
+  </div>
+  </div>
+  </li>
+
+
+
+
+ 
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+      <!---     #TV   درامای ژێرنوسکراو     --->
+<section class="top-rated">
+<div class="container">
+<span class="padding-margin" style="padding-top: 40px;"></span>
+<h2 class="h2 section-title" style="font-size: 15px;" dir="rtl"><span style="padding-right: 5px;display: flex;align-items: center;justify-content: space-between;">
+<span1 style="border-right: 5px solid #FFC107;display: flex;padding: 5px;"> زنجیرەی ژێرنوسکراو</span1>
+<a href="/movies/drama-zhernus" style="
+font-size: 14px;
+align-items: center;
+display: flex;
+color: #ffffffc7;
+padding: 5px;">
+بینینی زیاتر
+<i class="fas fa-angle-left" style="color: #FFC107;padding: 1px 6px;font-size: 18px;"></i>
+</a>
+</span>
+</h2>
+<ul class="movies-list" dir="rtl">
+         <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/drama-zhernus/dz-00019">
+  <figure class="card-banner">
+  <img src="images/ganchiney-mzafar.jpg">  
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <h3 class="card-title">   گەنجینەی مظفر  </h3>  
+  <span style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6d6d6de8;
+  font-size: 10px;">  درامی - کۆمیدی | 2019 </span>        
+  </a>
+  </div>
+  </div>
+  </li>
+       <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/drama-zhernus/dz-00018">
+  <figure class="card-banner">
+  <img src="images/xatunisardar.jpg">  
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <h3 class="card-title">  خاتونی سەردار  </h3>  
+  <span style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6d6d6de8;
+  font-size: 10px;">  
+مێژوویی - درامی - جەنگی
+   | 2019 </span>        
+  </a>
+  </div>
+  </div>
+  </li>
+     <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/drama-zhernus/dz-00017">
+  <figure class="card-banner">
+  <img src="images/charasarkrdn.jpg">  
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <h3 class="card-title">  چارەسەرکردن </h3>  
+  <span style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6d6d6de8;
+  font-size: 10px;">  
+نهێنی - درامی - تاوانکاری
+   | 2022 </span>        
+  </a>
+  </div>
+  </div>
+  </li>
+   <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/drama-zhernus/dz-00016">
+  <figure class="card-banner">
+  <img src="images/darstani-prmlmlane.jpg">  
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <h3 class="card-title">  جەنگەڵی پڕململانێ</h3>  
+  <span style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6d6d6de8;
+  font-size: 10px;">  
+  درامی - تاوانکاری
+   | 2024 </span>        
+  </a>
+  </div>
+  </div>
+  </li>
+  <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/drama-zhernus/dz-00014">
+  <figure class="card-banner">
+  <img src="images/mari-taran.jpg">  
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <h3 class="card-title"> ماری تاران</h3>  
+  <span style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6d6d6de8;
+  font-size: 10px;">  
+  درامی - کۆمەڵایەتی
+   | 2024 </span>        
+  </a>
+  </div>
+  </div>
+  </li>
+      <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/drama-zhernus/dz-00013">
+  <figure class="card-banner">
+  <img src="images/shahrzad.jpg">  
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <h3 class="card-title"> شەهرزاد</h3>  
+  <span style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6d6d6de8;
+  font-size: 10px;">  
+  کۆمەڵایەتی   | 2015 </span>        
+  </a>
+  </div>
+  </div>
+  </li>
+    <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/drama-zhernus/dz-0007">
+  <figure class="card-banner">
+  <img src="images/tawani-frishta.jpg">  
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <h3 class="card-title"> تاوانی فریشتە</h3>  
+  <span style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6d6d6de8;
+  font-size: 10px;">  
+درامی - کۆمەڵایەتی   | 2023 </span>        
+  </a>
+  </div>
+  </div>
+  </li>
+  <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/drama-zhernus/dz-0004">
+  <figure class="card-banner">
+  <img src="images/hawbashi-tawan.jpg">  
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <h3 class="card-title">  هاوبەشی تاوان</h3>  
+  <span style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6d6d6de8;
+  font-size: 10px;">  تاوانکاری - درامی -ئاڵۆز  | 2023 </span>        
+  </a>
+  </div>
+  </div>
+  </li>
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+<div class="movie-card">
+<a href="/post/drama-zhernus/dz-0001">
+<figure class="card-banner">
+<img src="images/salanek-dur-lamalawa.jpg">  
+</figure>
+</a>
+<div class="title-wrapper">
+<a>
+<h3 class="card-title">ساڵانێك دوور لە ماڵەوە</h3>  
+<span style="
+display: flex;
+align-items: center;
+justify-content: center;
+color: #6d6d6de8;
+font-size: 10px;">  کۆمیدی  | 2019 </span>        
+</a>
+</div>
+</div>
+</li>
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+<div class="movie-card">
+<a href="/post/drama-zhernus/dz-0003">
+<figure class="card-banner">
+<img src="images/abruy-wnbw.jpg">
+</figure>
+</a>
+<div class="title-wrapper">
+<a>
+<h3 class="card-title">ئابڕووی ونبوو</h3>
+<span style="
+display: flex;
+align-items: center;
+justify-content: center;
+color: #6d6d6de8;
+font-size: 10px;">درامی - کۆمەڵایەتی | 2023 </span>
+</a>
+</div>
+</div>
+</li>
+  <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/drama-zhernus/dz-0006">
+  <figure class="card-banner">
+  <img src="images/nheni-manawa.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <h3 class="card-title">نهێنی مانەوە</h3>
+  <span style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6d6d6de8;
+  font-size: 10px;">   کۆمیدی - کۆمەڵایەتی  | 2021 </span>
+  </a>
+  </div>
+  </div>
+  </li>
+  <!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<li>
+  <div class="movie-card">
+  <a href="/post/drama-zhernus/dz-0008">
+  <figure class="card-banner">
+  <img src="images/ruxan.jpg">
+  </figure>
+  </a>
+  <div class="title-wrapper">
+  <a>
+  <h3 class="card-title">ڕوخان</h3>
+  <span style="
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6d6d6de8;
+  font-size: 10px;"> درامی - خێزانی  | 2022 </span>
+  </a>
+  </div>
+  </div>
+  </li>
+                                                 <!------------------------------------------------------------------------------------------------------------------->
+
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------------------------------------->
+</ul>
+<br>
+<div class="zakarya-section--title">
+<a href="/movies/drama-zhernus">
+<span1>بینینی زیاتر</span1>
+</a>
+</div>
+</div>
+</section>
+<style>
+/*-----------------------------------*\
+ * #GO TO TOP
+\*-----------------------------------*/
+
+.go-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: var(--citrine);
+  color: var(--eerie-black);
+  width: 50px;
+  height: 50px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  box-shadow: 0 1px 3px hsla(0, 0%, 0%, 0.5);
+  opacity: 0;
+  visibility: hidden;
+  transition: var(--transition-2);
+  z-index: 2;
+}
+
+.go-top.active {
+  opacity: 1;
+  visibility: visible;
+}
+</style>
+<a href="https://t.me/CinemayERAN" class="go-top active" data-go-top="">
+  <img src="images/Telegram_logo.svg.webp" style="
+  height: 50px;
+">
+</a>
+</article>
+</main>
+
+
+<br>
+
+
+
+
+<footer class="footerrequist">
+
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+  <!-- 
+    - custom js link
+  -->
+<script src="js/footer-include.js"></script>
+<script src="js/slick.min.js"></script>
+<script src="js/slick-animation.min.js"></script>
+<script src="js/main.js"></script>
+<script src="js/search.js"></script>
+
+  <!-- 
+    - ionicon link
+  -->
+  <script type="module" src="js/ionicons.esm.js"></script>
+  <script nomodule="" src="js/ionicons.js"></script>
+
+
+
+
+</body></html>
